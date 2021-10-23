@@ -3,9 +3,20 @@
     background-color:yellowgreen;
     margin: auto 0;
     text-align: center;
+    align-items: center;
+    justify-content: center;
 }
+h1{ 
+    margin-bottom: -2px;
+}
+#Num1y2{ }
 
 #Botones_calculadora{
     padding: 10px;
 }
 
+#FormCalculadora input{ 
+    width: 400px;
+    display: inline-block;
+
+}
